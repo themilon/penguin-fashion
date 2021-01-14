@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #FFFBF0;
+}
+
+.model-title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 110px;
+    color: #363958;
+}
+
+.title-color {
+    color: #FABE4C;
+}
+
+.nav-color {
+    color: #3C3C3C !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.model-text {
+    color: #3E3E3E !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.btn-color {
+    background-color: #A4BC46;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px;
+}
+
+
+/* Jacket Section starts */
+
+.jacket-title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 72px;
+    color: #363958;
+    font-weight: 500;
+    padding-left: 45px !important;
+}
+
+.card-color {
+    background-color: #FFFFFF !important;
+    border: none;
+    border-radius: 25px;
+}
+
+.card-header {
+    background-color: #F1F1F1;
+    border-radius: 25px !important;
+    border: none;
+}
+
+.card-text-size {
+    font-family: 'Roboto', sans-serif;
+}
+
+.price {
+    color: #FABE4C;
+}
+
+.card-footer-border {
+    border: none;
+    background-color: #FFFFFF;
+}
+
+.services {
+    border-radius: 25px;
+}
+
+.offer-text {
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contact-section {
+    background-color: #F1F1F1;
+    border: none;
+}
